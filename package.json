@@ -1,0 +1,10 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "simple QR page design",
+  "author": "hmacr (Hemachandar V)",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
